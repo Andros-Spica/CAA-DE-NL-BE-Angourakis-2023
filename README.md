@@ -5,7 +5,7 @@ Prepared with reveal.js (see https://revealjs.com/)
 
 Slides: https://andros-spica.github.io/CAA-DE-NL-BE-Angourakis-2023/
 
-Recording: https://screenpal.com/watch/c06hrAV5ae6
+Video recording (approx. 36min): https://screenpal.com/watch/c06hrAV5ae6
 
 See previous version at: https://andros-spica.github.io/CAA-Angourakis-2023/
 

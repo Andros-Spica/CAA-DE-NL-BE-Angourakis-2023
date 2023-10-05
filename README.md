@@ -4,6 +4,7 @@ Presentation for the CAA DE-FL-BE joint annual meeting (13 October 2023), revisi
 Prepared with reveal.js (see https://revealjs.com/)
 
 Slides: https://andros-spica.github.io/CAA-DE-NL-BE-Angourakis-2023/
+
 See previous version at: https://andros-spica.github.io/CAA-Angourakis-2023/
 
 **_Author_**

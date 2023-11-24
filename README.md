@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10203756.svg)](https://doi.org/10.5281/zenodo.10203756)
+
 # Simulation in the age of machine learning
 Presentation for the CAA DE-FL-BE joint annual meeting (13 October 2023), revisiting the presentation for CAA 2023 Annual Meeting in Amsterdam (3-6 April 2023).
 
